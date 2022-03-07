@@ -1,5 +1,18 @@
-I like music
-I like pork pies
-I like crisps
-I like tea very much
-I like Radio 4
+<<<<<<< HEAD
+I very like games.
+I like cats.
+I like travelling.
+I like summer vication.
+I like blue.
+I like Shanghai.
+I like Lan.
+
+=======
+I like summer vication.
+I Lan.
+I don't like blue.
+I like Shanghai.
+I like 1
+I like 2
+I like 3
+>>>>>>> Lan
