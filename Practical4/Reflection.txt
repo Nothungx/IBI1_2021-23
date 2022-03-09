@@ -1,0 +1,4 @@
+I think this practical is a little bit comlicated.
+The greatest challenge I met was when I tried to push my git repos. There was always a error message. Later I found that I should change "git push origin master" into "git push origin main".
+Question: Should I use "git add" command everytime before I using "git commit" command?
+
