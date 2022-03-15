@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer: Pick ten random numbers on the scale of 1 to 100 and then print the tenth random number.
+# Answer: Pick ten random integers on the scale of 1 to 100 and then print the tenth random integer.
 
 # Import libraries
 # randint allows drawing a random number,
