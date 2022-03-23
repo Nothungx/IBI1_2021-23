@@ -9,18 +9,20 @@ L=marks
 L.sort() #Sort Rob's marks.
 print (L)
 
+print ('Robs average mark is 59.875, so he failed this ICA.')
+
 #Make boxplot of Rob's marks.
 n=8
 plt.boxplot(marks,
             vert=True,
             whis=1.5,
             patch_artist=True,
-            meanline=False,
+            meanline=True,
             showbox=True,
             showcaps=True,
             showfliers=True,
-            notch=False)
+            notch=True)
 plt.show()
 
-#Rob's average mark is 59.875, so he failed this ICA.
+#Rob's average mark, is 59.875, so he failed this ICA.
 
