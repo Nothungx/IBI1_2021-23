@@ -1,0 +1,4 @@
+How have new cases and total cases developed over time in Spain?
+Question is addressed in the covid.py file from the line 60 after the annotation "Question".
+Both new cases and total cases are growing from 2020/3/8. The total cases is increasing rising all through the dates. The new cases is rising until 2020/3/28, then it has a tendency to drop.
+The figure is what I expected. Because the total cases is the sum of the previous number of new cases, so the plot of total cases will never drop or keep still unless the new case is zero. The number of new cases can be smaller than the previous date's, so the plot of new cases can show a tendency to drop on 2020/3/8.
