@@ -15,7 +15,7 @@ for i in range(1,len(genes)):
     x=genes[i]
     fragments= re.findall(r'GAATTC',x)
     name=x[:7]
-    number=len(fragments)
+    number=len(fragments)+1
     DNA=re.findall(r'\'([A-Z]+)',x)
     line1='>'+name+'   '
     line2=str(number)+'\n'
