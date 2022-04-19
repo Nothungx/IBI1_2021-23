@@ -11,5 +11,6 @@ else:
 X=5<8
 Y=9>15
 W=X and Y
-print (W)
+print ("X is",X,"and Y is",Y)
+print ("W is",W)
 

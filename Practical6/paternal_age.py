@@ -1,7 +1,17 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-CHD={'30':1.03,'35':1.07,'40':1.11,'45':1.17,'50':1.23,'55':1.32,'60':1.42,'65':1.55,'70':1.72,'75':1.94}
+a='30' #a,b,c,d,e,f,g,h,i,j represent the variables for the age.
+b='35'
+c='40'
+d='45'
+e='50'
+f='55'
+g='60'
+h='65'
+i='70'
+j='75'
+CHD={a:1.03,b:1.07,c:1.11,d:1.17,e:1.23,f:1.32,g:1.42,h:1.55,i:1.72,j:1.94}
 print (CHD)
 
 N=10 #There are 10 paternal ages corresponding to 10 CHD
@@ -12,5 +22,5 @@ plt.xlabel('paternal age') # Set the x label
 plt.scatter(x,y,marker='o')
 plt.show()
 
-age='55' #Age repesents the requested paternal age.
-print (CHD['55']) #Show the requested paternal age's corresponding CHD for the offspring.
+age=input("The paternal age is:") #Age repesents the requested paternal age.
+print ("The CHD of",age,"is",CHD[age]) #Show the requested paternal age's corresponding CHD for the offspring.
