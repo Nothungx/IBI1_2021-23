@@ -11,6 +11,6 @@ The alignment score is: -348
 the percentage of identical amino acids is: 0.03114186851211076
 
 In the comparision of human and mouse's gene sequence, they have high percentage of identical amino acids and alignment score. Therefore, their gene sequence and protien products may be similiar to each other.
-Humans and mice are genetically similar to each other. Thus, they may have a common ancestor.Their common ancestors evolved respectively and become human and mouse. This is also the reason why the mouse is used as the experimental subject.
+Humans and mice are genetically similar to each other may be because that they are both mammal. Thus, they may have a common ancestor.Their common ancestors evolved respectively and become human and mouse. This is also the reason why the mouse is used as the experimental subject.
 
 
