@@ -38,3 +38,6 @@ plt.xlabel("terms associated with translation")
 plt.ylabel("childnodes numbers")
 plt.title("The distribution of the number of childnodes associated with terms with translation")
 plt.show()
+
+#The "translation" termscontain a greater number of child nodes than the overall Gene Ontology. The number of child nodes of "translation" terms is 2 while the overall is 1.
+print ("The 'translation' terms contain a greater number of child nodes than the overall Gene Ontology.")
