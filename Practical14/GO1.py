@@ -64,11 +64,5 @@ plt.ylabel("childnodes numbers")
 plt.title("The distribution of the number of childnodes associated with terms with translation")
 plt.show()
 
-def average(list):
-    sum=0
-    for item in list:
-        sum+=item
-    return sum/len(list)
-print (average(child_L),average(child_L1))
-#The "translation" termscontain a smaller number of child nodes than the overall Gene Ontology. The number of child nodes of "translation" terms is 1.938 while the overall is 4.396.
+#The "translation" terms contain a smaller number of child nodes than the overall Gene Ontology.
 print ("The 'translation' terms contain a smaller number of child nodes than the overall Gene Ontology.")
