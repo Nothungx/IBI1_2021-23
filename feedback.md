@@ -2,6 +2,7 @@ Week5:
 Changes: In line 14: print ("X is",X,"and Y is",Y) was added
 In line 15: print ("W is",W),"'W is'" was added
 
+
 Week6:
 paternal_age.py:
 variable N=10 was deleted.
@@ -17,6 +18,7 @@ From line 4: a='30' #a,b,c,d,e,f,g,h,i,j represent the variables for the age.
                     j='75' was added
 In line 27: age=input("The paternal age is:") was changed
 in line 28: print ("The CHD of",age,"is"，CHD[age]) was changed
+
 List_manipolation:
 From line 12: avg=sum(marks)/len(marks)
                       if avg<60:
